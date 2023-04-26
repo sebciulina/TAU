@@ -28,6 +28,6 @@ jobs:
 
 ![App Screenshot](1.PNG)
 
-Powyżej można zobaczyć, że przy pushowaniu były wywołane akcje, które polegały na uruchomieniu testów, w commit'cie `test3` wszystkie przeszły bez problemu lecz po zmianie jednego z testów można już zaobserwoawć niepowodzenie w commit `test4` oraz opisany błąd na poniższym zdjęciu.
+Powyżej można zobaczyć, że przy pushowaniu były wywołane akcje, które polegały na uruchomieniu testów, w commit'cie `test3` wszystkie przeszły bez problemu lecz po zmianie jednego z testów, aby go nie przeszedł można już zaobserwoawć niepowodzenie w commit `test4` oraz opisany błąd na poniższym zdjęciu.
 
 ![App Screenshot](2.PNG)
